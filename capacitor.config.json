@@ -1,0 +1,6 @@
+{
+  "appId": "com.aviator.app",
+  "appName": "aviatorapp",
+  "webDir": "www",
+  "bundledWebRuntime": false
+}
